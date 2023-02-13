@@ -2,7 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 import { Counter } from "./state/Counter";
-import Hangman from "./hangman";
+import Hangman from "./hangman/hangman";
 
 function App() {
   return (
