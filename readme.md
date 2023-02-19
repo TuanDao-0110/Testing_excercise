@@ -3,3 +3,5 @@
 1. [x] React testing libray
 2. [x] msw for creating temporatory server. 
 3. [x] cypress for E2E testing. 
+4. [x]
+7. [x] using Proxy 
