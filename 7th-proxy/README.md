@@ -130,4 +130,4 @@ export default function setupProxy(app: any) {
 
 ```
 
-
+## Warning setupProxy.js refer to use event in react-typescript
